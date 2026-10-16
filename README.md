@@ -1,4 +1,4 @@
-# 人生体感
+# 人生シミュレーションをしよう
 
 ## 起動
 `index.html` を VS Code の Live Server で開きます。GitHub Pages ではリポジトリ直下の `index.html` を公開してください。
